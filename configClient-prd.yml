@@ -1,0 +1,5 @@
+server:
+  port: ${9999}
+
+message: Consumer configuration server is alive for prd! :)
+    
