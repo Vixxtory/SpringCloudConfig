@@ -1,5 +1,7 @@
 server:
-  port: ${9999}
+  port: ${8885}
 
 message: Consumer configuration server is alive for prd! :)
+denominacion: pesos, dolares, euros
+cant_max: "5000"
     
